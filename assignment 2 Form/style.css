@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+div form{ 
+    margin: auto;
+    background-color: rgb(52, 168, 168) ;
+    padding: 10px 20px;
+    border-radius: 10px ;
+    width:200px;
+}
+
+    
+img{
+    width: 200px;
+    align :center;
+
+
+}
+ 
+h1{ 
+    background-color: rgb(58, 146, 180);
+    font-style: oblique;
+
+}
