@@ -1,2 +1,0 @@
-assignment name :Weather API
-https://github.com/ramshahussain056/calculator.git
